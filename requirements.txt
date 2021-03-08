@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+keras
+stellargraph 
+joblib
+gensim
+tqdm
+
+###### Requirements with Version Specifiers ######`
+tensorflow == 1.14
