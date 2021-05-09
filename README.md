@@ -69,4 +69,4 @@ You can then use the results in csv file to plot the diagram. For example:
 
 
 ## Contributing
-This repository is double-blinded for SIGIR-2021 conference review.
+
