@@ -69,4 +69,21 @@ You can then use the results in csv file to plot the diagram. For example:
 
 
 ## Contributing
+You can use this reference format to cite our work:
+```
+@inproceedings{rad21,
+	title =     {Retrieving Skill-Based Teams from Collaboration Networks},
+	doi =       {10.1145/3404835.3463105},
+	publisher = {ACM, New York, NY, USA},
+	author =    {Radin Hamidi Rad and
+	                Ebrahim Bagheri and
+                	Mehdi Kargar and
+                	Divesh Srivastava and
+                	Jaroslaw Szlichta},
+    booktitle = {Proceedings of the 44th International ACM SIGIR Conference on
+    Research and Development in Information Retrieval (SIGIR '21), July 11--15, 2021, Virtual Event, Canada},
+	pages =     {5},
+	year =      {2021}
+}
+```
 
